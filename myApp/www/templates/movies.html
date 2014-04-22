@@ -37,14 +37,14 @@
                         <span class='helvetica input-label '>1. Select A Date:</span>
                         <input class="outingField " ng-model="form.date" name="date" type="date"  ng-change='getTheaters(currentMovie); showTheaters()'>
 
-                      <label class='helvetica item item-input item-stacked-label ' ng-show="theaterField()">
+                      <div class='helvetica item item-input item-stacked-label ' ng-show="theaterField()">
                        <span class='helvetica input-label '> 2. Select a Theater</span>
                         <select ng-model="form.theater" name="theater" type="text" placeholder="Theater" class="outingField " ng-options="theater.theatre.name for (name, theater) in theaters" ng-change='getShowtimes(currentMovie, form.theater)'></select>
-                      </label>
-                      <label class='helvetica item item-input item-stacked-label ' ng-show="showtimeField()">
+                      </div>
+                      <div class='helvetica item item-input item-stacked-label ' ng-show="showtimeField()">
                         <span class='helvetica input-label '>3. Select a Showtime</span>
                         <select ng-model="form.showtime" name="theater" type="text" placeholder="Theater" class="outingField " ng-options="showtime for (showtime, showtime) in showtimes"></select>
-                      </label>
+                      </div>
                       <br>
                       <button type="submit" ng-click='processOutingForm()' class="button button-small button-light helveticaButton ">Create Outing</button>
                       <button class='helvetica button button-small button-light helveticaButton ' ng-click="cancelNewOuting(); toggleOutingsForm = !toggleOutingsForm;" type="reset">Cancel</button>

@@ -152,7 +152,11 @@ app.service('getLocation', function($http, $rootScope, $q){
 
       $http.get(zipQuery)
       .success(function(data){
-        $rootScope.currentZip = data.results[0].address_components[7].short_name;
+        if (data.results[0].address_components[7]) {
+          $rootScope.currentZip = data.results[0].address_components[7].short_name; 
+        } else {
+          $rootScope.currentZip = 94102;
+        }
         deferred.resolve($rootScope.currentZip);
       });
     });

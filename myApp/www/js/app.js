@@ -28,15 +28,6 @@ app.config(function($stateProvider, $urlRouterProvider) {
       templateUrl: 'templates/login.html',
       controller: 'LoginController'
     })
-    .state('login.loading', {
-      url: '/loading',
-      views: {
-        'loading' : {
-          templateUrl: 'templates/loading.html',
-          controller: 'LoadingController'
-        }
-      }
-    })
     .state('dash', {
       url: '/dash',
       abstract: true,
@@ -47,6 +38,15 @@ app.config(function($stateProvider, $urlRouterProvider) {
         }
       },
       controller: 'DashController'
+    })
+    .state('dash.loading', {
+      url: '/loading',
+      views: {
+        'loading' : {
+          templateUrl: 'templates/loading.html',
+          controller: 'LoadingController'
+        }
+      }
     })
     .state('dash.outings', {
       url: '/outings',

@@ -10,7 +10,6 @@ var app = angular.module('starter', ['ionic','ngAnimate','xeditable', 'starter.c
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
     if(window.StatusBar) {
-      console.log('true');
       // org.apache.cordova.statusbar required
       StatusBar.hide();
     }

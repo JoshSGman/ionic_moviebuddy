@@ -43,8 +43,12 @@ body {
   border: 0px !important;
 }
 
+.pane {
+  background: #1FDA9A !important;
+}
+
 .scroll-content {
-  background: #1FDA9A;
+  background: #1FDA9A !important;
 }
 
 .list {
@@ -118,6 +122,7 @@ body {
 /* Loading Page */
 
 .loading-icon-item {
+  margin-top: 40%;
   text-align: center;
 }
 
@@ -125,17 +130,13 @@ body {
   font-size: 70px;
 }
 
-
-
-/* login fun */
-
-.login-page {
-
+.loading-title {
+  color: #f8f8f8 !important;
 }
 
-.login-bar {
-  background: #1FDA9A;
-}
+
+
+/* login css */
 
 .login-item {
   padding: 0px;
@@ -166,7 +167,7 @@ body {
   text-decoration: none;
 }
 
-/* Profile Fun */
+/* Profile css */
 
 .profileSection{
 
