@@ -1,0 +1,1378 @@
+THelloCordova
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Info.plist /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh
+cCpResource HelloCordova/Resources/icons/icon-76.png build/emulator/HelloCordova.app/icon-76.png
+cCpResource HelloCordova/Resources/icons/icon-40@2x.png build/emulator/HelloCordova.app/icon-40@2x.png
+cCpResource HelloCordova/Resources/icons/icon-72.png build/emulator/HelloCordova.app/icon-72.png
+cCpResource HelloCordova/Resources/icons/icon.png build/emulator/HelloCordova.app/icon.png
+cCpResource HelloCordova/Resources/icons/icon@2x.png build/emulator/HelloCordova.app/icon@2x.png
+cCopyStringsFile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/en.lproj/Localizable.strings HelloCordova/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib
+cCpResource HelloCordova/Resources/icons/icon-50.png build/emulator/HelloCordova.app/icon-50.png
+cCpResource HelloCordova/Resources/icons/icon-60@2x.png build/emulator/HelloCordova.app/icon-60@2x.png
+cCopyStringsFile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/de.lproj/Localizable.strings HelloCordova/Resources/de.lproj/Localizable.strings
+cCpResource HelloCordova/Resources/icons/icon-small.png build/emulator/HelloCordova.app/icon-small.png
+cCpResource HelloCordova/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png
+cCpResource HelloCordova/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloCordova.app/Default-Landscape~ipad.png
+cCpResource HelloCordova/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png
+cCpResource HelloCordova/Resources/icons/icon-small@2x.png build/emulator/HelloCordova.app/icon-small@2x.png
+cCpResource HelloCordova/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloCordova.app/Default-Portrait~ipad.png
+cCpResource HelloCordova/Resources/icons/icon-40.png build/emulator/HelloCordova.app/icon-40.png
+cCpResource HelloCordova/Resources/splash/Default@2x~iphone.png build/emulator/HelloCordova.app/Default@2x~iphone.png
+cCpResource HelloCordova/Resources/icons/icon-60.png build/emulator/HelloCordova.app/icon-60.png
+cCpResource HelloCordova/Resources/splash/Default~iphone.png build/emulator/HelloCordova.app/Default~iphone.png
+cCpResource HelloCordova/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloCordova.app/Default-568h@2x~iphone.png
+cCpResource HelloCordova/Resources/icons/icon-50@2x.png build/emulator/HelloCordova.app/icon-50@2x.png
+cCpResource HelloCordova/Resources/icons/icon-76@2x.png build/emulator/HelloCordova.app/icon-76@2x.png
+cCpResource HelloCordova/Resources/icons/icon-72@2x.png build/emulator/HelloCordova.app/icon-72@2x.png
+cProcessPCH /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch.pch HelloCordova/HelloCordova-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVStatusBar.o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.statusbar/CDVStatusBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova normal i386
+cGenerateDSYMFile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova
+cTouch /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534738360000000000000198
+t1397176374
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F89DE00000000000003B4
+t1394575838
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F89E2000000000000019E
+t1394575842
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000531F89E30000000000484210
+t1394575843
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c00000000531F89E30000000000098030
+t1394575843
+s622640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000531F89E20000000000059340
+t1394575842
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531F89E300000000005B82F0
+t1394575843
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005347380E0000000000446820
+t1397176334
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000531F89E300000000000F1A80
+t1394575843
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000531F89E3000000000013B8C0
+t1394575843
+s1292480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F89E4000000000088D8C0
+t1394575844
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000531F89E400000000001BE790
+t1394575844
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531F89E60000000001F1DE10
+t1394575846
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531F89EB00000000002BC360
+t1394575851
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531F89EE0000000000002338
+t1394575854
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531F89EF000000000008D370
+t1394575855
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531F89EF0000000000392E20
+t1394575855
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c0000000053110E8600000000000141F0
+t1393626758
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531F89EF0000000000014A80
+t1394575855
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531F89EF0000000000033BA0
+t1394575855
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531F89EF000000000001CFB0
+t1394575855
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531F89EF000000000001B2B0
+t1394575855
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531F89EF00000000000C9570
+t1394575855
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531F89EF0000000000063280
+t1394575855
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531F89EF0000000000008880
+t1394575855
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531F89EF0000000000015080
+t1394575855
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531F89EF00000000000230F0
+t1394575855
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531F89EF000000000000E380
+t1394575855
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531F89EF0000000000089380
+t1394575855
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531F89EF0000000000017320
+t1394575855
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531F89EF0000000000039CD0
+t1394575855
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531F89EF000000000000B0B0
+t1394575855
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531F89EF0000000000167E80
+t1394575855
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531F89EF00000000000106A0
+t1394575855
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531F89EF000000000001CE40
+t1394575855
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531F89EF00000000000740C0
+t1394575855
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531F89EF000000000006CA60
+t1394575855
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531F89EF000000000001BAD0
+t1394575855
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531F89EF0000000000084A20
+t1394575855
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+c00000000531F89F1000000000000BB48
+t1394575857
+s47944
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c000000005347380E000000000000514C
+t1397176334
+s20812
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.h
+c000000005356130400000000000005BD
+t1398149892
+s1469
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m
+c000000005356130400000000000013AF
+t1398149892
+s5039
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.h
+c000000005356130400000000000004D2
+t1398149892
+s1234
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m
+c0000000053561304000000000000126D
+t1398149892
+s4717
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib
+c00000000535613040000000000001759
+t1398149892
+s5977
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist
+c00000000536654180000000000000A16
+t1399215128
+s2582
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/HelloCordova-Prefix.pch
+c000000005356130400000000000003C9
+t1398149892
+s969
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.h
+c0000000053561305000000000000037F
+t1398149893
+s895
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m
+c00000000535613050000000000000490
+t1398149893
+s1168
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.h
+c000000005356130500000000000003BD
+t1398149893
+s957
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m
+c00000000535613050000000000000C22
+t1398149893
+s3106
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.statusbar/CDVStatusBar.h
+c000000005356130500000000000006D7
+t1398149893
+s1751
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.statusbar/CDVStatusBar.m
+c0000000053561305000000000000342C
+t1398149893
+s13356
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/de.lproj/Localizable.strings
+c000000005356130400000000000004C0
+t1398149892
+s1216
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/en.lproj/Localizable.strings
+c000000005356130400000000000004AB
+t1398149892
+s1195
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-40.png
+c00000000535613040000000000000FF2
+t1398149892
+s4082
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-40@2x.png
+c00000000535613040000000000001CF3
+t1398149892
+s7411
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-50.png
+c0000000053561304000000000000130A
+t1398149892
+s4874
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-50@2x.png
+c0000000053561304000000000000258B
+t1398149892
+s9611
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-60.png
+c000000005356130400000000000016B3
+t1398149892
+s5811
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-60@2x.png
+c00000000535613040000000000002E94
+t1398149892
+s11924
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-72.png
+c00000000535613040000000000001350
+t1398149892
+s4944
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-72@2x.png
+c00000000535613040000000000002DBA
+t1398149892
+s11706
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-76.png
+c00000000535613040000000000001B71
+t1398149892
+s7025
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-76@2x.png
+c00000000535613040000000000003B9E
+t1398149892
+s15262
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-small.png
+c00000000535613040000000000000CDE
+t1398149892
+s3294
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-small@2x.png
+c000000005356130400000000000015E8
+t1398149892
+s5608
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon.png
+c00000000535613040000000000000F3E
+t1398149892
+s3902
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon@2x.png
+c00000000535613040000000000001EBD
+t1398149892
+s7869
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default-568h@2x~iphone.png
+c000000005356130400000000000085B1
+t1398149892
+s34225
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000535613040000000000033D0A
+t1398149892
+s212234
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Landscape~ipad.png
+c000000005356130400000000000166A2
+t1398149892
+s91810
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000535613040000000000033F7C
+t1398149892
+s212860
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Portrait~ipad.png
+c00000000535613040000000000016641
+t1398149892
+s91713
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default@2x~iphone.png
+c00000000535613040000000000007323
+t1398149892
+s29475
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default~iphone.png
+c0000000053561304000000000000289A
+t1398149892
+s10394
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/main.m
+c0000000053561304000000000000045E
+t1398149892
+s1118
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o
+t1398149901
+s74012
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o
+t1398149901
+s50368
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o
+t1398149901
+s41556
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVStatusBar.o
+t1398149901
+s99948
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/HelloCordova.LinkFileList
+c000000005356130A00000000000003C9
+t1398149898
+s969
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o
+t1398149901
+s50824
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o
+t1398149901
+s3004
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh
+c000000005356130A000000000000002D
+t1398149898
+s45
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app
+t1399215131
+s1020
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM
+t1399215124
+s102
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-568h@2x~iphone.png
+t1398149899
+s34225
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png
+t1398149899
+s212234
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Landscape~ipad.png
+t1398149899
+s91810
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png
+t1398149899
+s212860
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Portrait~ipad.png
+t1398149899
+s91713
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default@2x~iphone.png
+t1398149899
+s29475
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default~iphone.png
+t1398149899
+s10394
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova
+t1399214771
+s313624
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Info.plist
+t1399215129
+s1294
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/MainViewController.nib
+t1398149900
+s1332
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/PkgInfo
+t2
+s0
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/de.lproj/Localizable.strings
+t1398149899
+s280
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/en.lproj/Localizable.strings
+t1398149899
+s166
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-40.png
+t1398149899
+s4082
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-40@2x.png
+t1398149899
+s7411
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-50.png
+t1398149899
+s4874
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-50@2x.png
+t1398149899
+s9611
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-60.png
+t1398149899
+s5811
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-60@2x.png
+t1398149899
+s11924
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-72.png
+t1398149899
+s4944
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-72@2x.png
+t1398149899
+s11706
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-76.png
+t1398149899
+s7025
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-76@2x.png
+t1398149899
+s15262
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-small.png
+t1398149899
+s3294
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-small@2x.png
+t1398149899
+s5608
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon.png
+t1398149899
+s3902
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon@2x.png
+t1398149899
+s7869
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDV.h
+c00000000535613090000000000000516
+t1398149897
+s1302
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+c00000000535613090000000000000CDD
+t1398149897
+s3293
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+c000000005356130900000000000008BA
+t1398149897
+s2234
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+c000000005356130900000000000004B5
+t1398149897
+s1205
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+c00000000535613090000000000000503
+t1398149897
+s1283
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+c00000000535613090000000000000401
+t1398149897
+s1025
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+c000000005356130900000000000007E6
+t1398149897
+s2022
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+c000000005356130900000000000003DA
+t1398149897
+s986
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+c000000005356130900000000000006CF
+t1398149897
+s1743
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+c00000000535613090000000000000892
+t1398149897
+s2194
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+c00000000535613090000000000000C13
+t1398149897
+s3091
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+c00000000535613090000000000000408
+t1398149897
+s1032
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+c0000000053561309000000000000038D
+t1398149897
+s909
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+c0000000053561309000000000000041C
+t1398149897
+s1052
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+c00000000535613090000000000000ACC
+t1398149897
+s2764
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+c000000005356130900000000000004B4
+t1398149897
+s1204
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+c00000000535613090000000000000392
+t1398149897
+s914
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+c0000000053561309000000000000037D
+t1398149897
+s893
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+c000000005356130900000000000005DA
+t1398149897
+s1498
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+c000000005356130900000000000003A0
+t1398149897
+s928
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+c00000000535613090000000000000476
+t1398149897
+s1142
+
+N/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/libCordova.a
+c000000005356130A00000000000D2CC0
+t1398149898
+s863424
+
+N/usr/lib/libSystem.B.dylib
+c000000005267323D000000000000E6D0
+t1382494781
+s59088
+
+N/usr/lib/system/libcache.dylib
+c00000000526732480000000000012A00
+t1382494792
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052673233000000000002E320
+t1382494771
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005267323D0000000000021860
+t1382494781
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052673248000000000001B620
+t1382494792
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005267324800000000000BD920
+t1382494792
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052673248000000000000A120
+t1382494792
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c0000000053110E86000000000001D550
+t1393626758
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c00000000526732480000000000014EE0
+t1382494792
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526732490000000000010380
+t1382494793
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052673249000000000000C4C0
+t1382494793
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005267324800000000000357A0
+t1382494792
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052673248000000000000C070
+t1382494792
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c0000000053110E860000000000010630
+t1393626758
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000053110E86000000000001DF10
+t1393626758
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005267323D0000000000075B00
+t1382494781
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005356A6D9000000000007CC70
+t1398187737
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005267323D00000000000766C0
+t1382494781
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005267323D0000000000021FA0
+t1382494781
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c0000000053110E86000000000002D920
+t1393626758
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052673249000000000001E570
+t1382494793
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000053110E86000000000000CC70
+t1393626758
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052673244000000000000C3F0
+t1382494788
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005267324900000000000199F0
+t1382494793
+s104944
+
+N/var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch.pch
+t1398149900
+s5374256
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesec6af2998b16b941^4694f2998b16b941^---0#1#1#--18"Check dependencies36"F0525888-C467-4ABF-B64C-FCCAA5215D3D-
+
+CCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419842700.982909
+e419842701.059287
+r1
+xCompileC
+xbuild/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m211"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o HelloCordova/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler19c8fb8c4a06b941^a12d0f8d4a06b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m0000000000000000^4186"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o HelloCordova/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -include /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch -MMD -MT dependencies -MF /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.dia -c /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/AppDelegate.m -o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o36"67B2D9CE-4701-41D7-B847-5949C8E9183F-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419842700.983940
+e419842701.059457
+r1
+xCompileC
+xbuild/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m233"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerae12fc8c4a06b941^0e4f0f8d4a06b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m0000000000000000^4226"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -include /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch -MMD -MT dependencies -MF /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.d --serialize-diagnostics /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.dia -c /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.device/CDVDevice.m -o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o36"2474CBA0-A2C0-4611-B313-BCA186C91CD1-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419842700.983587
+e419842701.041323
+r1
+xCompileC
+xbuild/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m234"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler59f7fb8c4a06b941^36940a8d4a06b941^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m0000000000000000^4228"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -include /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch -MMD -MT dependencies -MF /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.d --serialize-diagnostics /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.dia -c /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.console/CDVLogger.m -o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o36"59290CF8-D859-47F7-A8C4-4425B2FB36ED-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVStatusBar.o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.statusbar/CDVStatusBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419842700.984430
+e419842701.093200
+r1
+xCompileC
+xbuild/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVStatusBar.o
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.statusbar/CDVStatusBar.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.statusbar/CDVStatusBar.m
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.statusbar/CDVStatusBar.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.statusbar/CDVStatusBar.m242"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVStatusBar.o HelloCordova/Plugins/org.apache.cordova.statusbar/CDVStatusBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9e25fc8c4a06b941^f5db178d4a06b941^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.statusbar/CDVStatusBar.m0000000000000000^4250"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVStatusBar.o HelloCordova/Plugins/org.apache.cordova.statusbar/CDVStatusBar.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -include /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch -MMD -MT dependencies -MF /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVStatusBar.d --serialize-diagnostics /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVStatusBar.dia -c /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Plugins/org.apache.cordova.statusbar/CDVStatusBar.m -o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVStatusBar.o36"503830BE-4F8D-484B-89B9-EF467BE303A9-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419842700.983129
+e419842701.048464
+r1
+xCompileC
+xbuild/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m225"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o HelloCordova/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler53cefb8c4a06b941^98680c8d4a06b941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m0000000000000000^4228"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o HelloCordova/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -include /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch -MMD -MT dependencies -MF /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.dia -c /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.m -o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o36"A7DD6686-B0D1-4ECF-A0CE-E32D77818B11-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419842700.982595
+e419842701.006287
+r1
+xCompileC
+xbuild/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/main.m189"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o HelloCordova/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9ca6fb8c4a06b941^399c018d4a06b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/main.m0000000000000000^4128"CompileC build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o HelloCordova/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -include /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch -MMD -MT dependencies -MF /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.dia -c /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/main.m -o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o36"11FB580C-E6E4-4B95-A67A-0BD9E1A66DF0-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCompileXIB /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib
+s419842699.520140
+e419842700.696232
+r1
+xCompileXIB
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib
+o2014-04-21 23:58:20.247 Interface Builder Cocoa Touch Tool[11861:303] CFPreferences: user home directory at file:///Users/JoshSGman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compiling /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib54"CompileXIB HelloCordova/Classes/MainViewController.xibd55d858b4a06b941^3a3eb28c4a06b941^-234"2014-04-21 23:58:20.247 Interface Builder Cocoa Touch Tool[11861:303] CFPreferences: user home directory at file:///Users/JoshSGman/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@112"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib0000000000000000^1057"CompileXIB HelloCordova/Classes/MainViewController.xib    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/MainViewController.nib /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Classes/MainViewController.xib36"BCE7EF2C-C932-4B5A-BD87-866DFC3D61ED-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCopyStringsFile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/de.lproj/Localizable.strings HelloCordova/Resources/de.lproj/Localizable.strings
+s419842699.521421
+e419842699.523314
+r1
+xCopyStringsFile
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/de.lproj/Localizable.strings
+xHelloCordova/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy HelloCordova/Resources/de.lproj/Localizable.strings128"CopyStringsFile build/emulator/HelloCordova.app/de.lproj/Localizable.strings HelloCordova/Resources/de.lproj/Localizable.stringsd597858b4a06b941^74ef858b4a06b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/de.lproj/Localizable.strings0000000000000000^851"CopyStringsFile build/emulator/HelloCordova.app/de.lproj/Localizable.strings HelloCordova/Resources/de.lproj/Localizable.strings    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/de.lproj -- HelloCordova/Resources/de.lproj/Localizable.strings36"E58F1CC4-712B-4181-8722-E6290B77FCDB-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCopyStringsFile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/en.lproj/Localizable.strings HelloCordova/Resources/en.lproj/Localizable.strings
+s419842699.519453
+e419842699.521885
+r1
+xCopyStringsFile
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/en.lproj/Localizable.strings
+xHelloCordova/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy HelloCordova/Resources/en.lproj/Localizable.strings128"CopyStringsFile build/emulator/HelloCordova.app/en.lproj/Localizable.strings HelloCordova/Resources/en.lproj/Localizable.strings412e858b4a06b941^9e98858b4a06b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/en.lproj/Localizable.strings0000000000000000^851"CopyStringsFile build/emulator/HelloCordova.app/en.lproj/Localizable.strings HelloCordova/Resources/en.lproj/Localizable.strings    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/en.lproj -- HelloCordova/Resources/en.lproj/Localizable.strings36"DA1FBCD5-A0B3-42F5-855B-22F5330462DA-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon-40.png build/emulator/HelloCordova.app/icon-40.png
+s419842699.524092
+e419842699.525398
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-40.png
+xbuild/emulator/HelloCordova.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/HelloCordova.app/icon-40.png95"CpResource HelloCordova/Resources/icons/icon-40.png build/emulator/HelloCordova.app/icon-40.png774b868b4a06b941^2c83868b4a06b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-40.png0034bce5dcffdf42^879"CpResource HelloCordova/Resources/icons/icon-40.png build/emulator/HelloCordova.app/icon-40.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-40.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"83C1E7FE-6060-4CB6-BE9F-7758DA7AF0B5-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon-40@2x.png build/emulator/HelloCordova.app/icon-40@2x.png
+s419842699.518608
+e419842699.520169
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-40@2x.png
+xbuild/emulator/HelloCordova.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/HelloCordova.app/icon-40@2x.png101"CpResource HelloCordova/Resources/icons/icon-40@2x.png build/emulator/HelloCordova.app/icon-40@2x.png6ede848b4a06b941^732a858b4a06b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-40@2x.png0034bce5dcffdf42^888"CpResource HelloCordova/Resources/icons/icon-40@2x.png build/emulator/HelloCordova.app/icon-40@2x.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-40@2x.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"2C0EAF02-9F6B-4DD5-BDF2-5191BE6A141A-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon-50.png build/emulator/HelloCordova.app/icon-50.png
+s419842699.520873
+e419842699.521870
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-50.png
+xbuild/emulator/HelloCordova.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/HelloCordova.app/icon-50.png95"CpResource HelloCordova/Resources/icons/icon-50.png build/emulator/HelloCordova.app/icon-50.png546f858b4a06b941^71ae858b4a06b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-50.png0034bce5dcffdf42^879"CpResource HelloCordova/Resources/icons/icon-50.png build/emulator/HelloCordova.app/icon-50.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-50.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"5AFBAEEC-049A-469E-959C-DAB234351E63-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon-50@2x.png build/emulator/HelloCordova.app/icon-50@2x.png
+s419842699.526053
+e419842699.527326
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-50@2x.png
+xbuild/emulator/HelloCordova.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/HelloCordova.app/icon-50@2x.png101"CpResource HelloCordova/Resources/icons/icon-50@2x.png build/emulator/HelloCordova.app/icon-50@2x.png01da868b4a06b941^4cff868b4a06b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-50@2x.png0034bce5dcffdf42^888"CpResource HelloCordova/Resources/icons/icon-50@2x.png build/emulator/HelloCordova.app/icon-50@2x.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-50@2x.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"A9615EA9-2432-4C49-B4B8-91E54B10B239-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon-60.png build/emulator/HelloCordova.app/icon-60.png
+s419842699.525018
+e419842699.526272
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-60.png
+xbuild/emulator/HelloCordova.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/HelloCordova.app/icon-60.png95"CpResource HelloCordova/Resources/icons/icon-60.png build/emulator/HelloCordova.app/icon-60.pngda91868b4a06b941^15ca868b4a06b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-60.png0034bce5dcffdf42^879"CpResource HelloCordova/Resources/icons/icon-60.png build/emulator/HelloCordova.app/icon-60.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-60.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"33001E9B-4765-4CCE-AE88-50C3E22C3E8D-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon-60@2x.png build/emulator/HelloCordova.app/icon-60@2x.png
+s419842699.521215
+e419842699.522372
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-60@2x.png
+xbuild/emulator/HelloCordova.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/HelloCordova.app/icon-60@2x.png101"CpResource HelloCordova/Resources/icons/icon-60@2x.png build/emulator/HelloCordova.app/icon-60@2x.pngb98e858b4a06b941^70cd858b4a06b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-60@2x.png0034bce5dcffdf42^888"CpResource HelloCordova/Resources/icons/icon-60@2x.png build/emulator/HelloCordova.app/icon-60@2x.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-60@2x.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"3DAA20B1-5004-4CA4-B58B-5F80A1B0459E-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon-72.png build/emulator/HelloCordova.app/icon-72.png
+s419842699.518725
+e419842699.520241
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-72.png
+xbuild/emulator/HelloCordova.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/HelloCordova.app/icon-72.png95"CpResource HelloCordova/Resources/icons/icon-72.png build/emulator/HelloCordova.app/icon-72.pngaaf3848b4a06b941^6a4f858b4a06b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-72.png0034bce5dcffdf42^879"CpResource HelloCordova/Resources/icons/icon-72.png build/emulator/HelloCordova.app/icon-72.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-72.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"7F139DE7-E75C-4D54-82D6-6F7A2F6F4D11-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon-72@2x.png build/emulator/HelloCordova.app/icon-72@2x.png
+s419842699.526983
+e419842699.527882
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-72@2x.png
+xbuild/emulator/HelloCordova.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/HelloCordova.app/icon-72@2x.png101"CpResource HelloCordova/Resources/icons/icon-72@2x.png build/emulator/HelloCordova.app/icon-72@2x.png3ffe868b4a06b941^ee23878b4a06b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-72@2x.png0034bce5dcffdf42^888"CpResource HelloCordova/Resources/icons/icon-72@2x.png build/emulator/HelloCordova.app/icon-72@2x.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-72@2x.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"F89F916D-7BFA-4DDC-9EE6-92A8A5CD1474-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon-76.png build/emulator/HelloCordova.app/icon-76.png
+s419842699.518487
+e419842699.519466
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-76.png
+xbuild/emulator/HelloCordova.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/HelloCordova.app/icon-76.png95"CpResource HelloCordova/Resources/icons/icon-76.png build/emulator/HelloCordova.app/icon-76.png0cca848b4a06b941^2ffc848b4a06b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-76.png0034bce5dcffdf42^879"CpResource HelloCordova/Resources/icons/icon-76.png build/emulator/HelloCordova.app/icon-76.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-76.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"46AF9E19-3B2C-4185-A297-AE67E4850324-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon-76@2x.png build/emulator/HelloCordova.app/icon-76@2x.png
+s419842699.526745
+e419842699.527737
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-76@2x.png
+xbuild/emulator/HelloCordova.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/HelloCordova.app/icon-76@2x.png101"CpResource HelloCordova/Resources/icons/icon-76@2x.png build/emulator/HelloCordova.app/icon-76@2x.pngadf8868b4a06b941^6d1a878b4a06b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-76@2x.png0034bce5dcffdf42^888"CpResource HelloCordova/Resources/icons/icon-76@2x.png build/emulator/HelloCordova.app/icon-76@2x.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-76@2x.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"5240F429-F041-4053-8905-43A162CE576D-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon-small.png build/emulator/HelloCordova.app/icon-small.png
+s419842699.521886
+e419842699.523108
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-small.png
+xbuild/emulator/HelloCordova.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy build/emulator/HelloCordova.app/icon-small.png101"CpResource HelloCordova/Resources/icons/icon-small.png build/emulator/HelloCordova.app/icon-small.png6bbb858b4a06b941^64e7858b4a06b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-small.png0034bce5dcffdf42^888"CpResource HelloCordova/Resources/icons/icon-small.png build/emulator/HelloCordova.app/icon-small.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-small.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"6F84D088-1E1A-496A-816E-B2DBEBFDB139-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon-small@2x.png build/emulator/HelloCordova.app/icon-small@2x.png
+s419842699.523634
+e419842699.524864
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon-small@2x.png
+xbuild/emulator/HelloCordova.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/emulator/HelloCordova.app/icon-small@2x.png107"CpResource HelloCordova/Resources/icons/icon-small@2x.png build/emulator/HelloCordova.app/icon-small@2x.pngbe2f868b4a06b941^c45c868b4a06b941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon-small@2x.png0034bce5dcffdf42^897"CpResource HelloCordova/Resources/icons/icon-small@2x.png build/emulator/HelloCordova.app/icon-small@2x.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon-small@2x.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"4568220A-50A0-46BB-A471-DC3842C5B195-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon.png build/emulator/HelloCordova.app/icon.png
+s419842699.518914
+e419842699.520459
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon.png
+xbuild/emulator/HelloCordova.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Copy build/emulator/HelloCordova.app/icon.png89"CpResource HelloCordova/Resources/icons/icon.png build/emulator/HelloCordova.app/icon.pnga400858b4a06b941^c85c858b4a06b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon.png0034bce5dcffdf42^870"CpResource HelloCordova/Resources/icons/icon.png build/emulator/HelloCordova.app/icon.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"2574D9F8-29BD-410F-95E1-89312AD28647-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/icons/icon@2x.png build/emulator/HelloCordova.app/icon@2x.png
+s419842699.519307
+e419842699.520652
+r1
+xCpResource
+xHelloCordova/Resources/icons/icon@2x.png
+xbuild/emulator/HelloCordova.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy build/emulator/HelloCordova.app/icon@2x.png95"CpResource HelloCordova/Resources/icons/icon@2x.png build/emulator/HelloCordova.app/icon@2x.pngbf0d858b4a06b941^0267858b4a06b941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/icon@2x.png0034bce5dcffdf42^879"CpResource HelloCordova/Resources/icons/icon@2x.png build/emulator/HelloCordova.app/icon@2x.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/icons/icon@2x.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"BEDA6EC1-573C-4F32-9054-BE1BAAF95F20-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloCordova.app/Default-568h@2x~iphone.png
+s419842699.525801
+e419842699.526895
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/HelloCordova.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/HelloCordova.app/Default-568h@2x~iphone.png126"CpResource HelloCordova/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloCordova.app/Default-568h@2x~iphone.png9dba868b4a06b941^50e3868b4a06b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-568h@2x~iphone.png0034bce5dcffdf42^926"CpResource HelloCordova/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloCordova.app/Default-568h@2x~iphone.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default-568h@2x~iphone.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"CF262E85-60DA-4453-91C4-21273AEB7E88-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png
+s419842699.522513
+e419842699.523989
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Copy build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png132"CpResource HelloCordova/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.pngcee2858b4a06b941^ea25868b4a06b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png0034bce5dcffdf42^935"CpResource HelloCordova/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloCordova.app/Default-Landscape@2x~ipad.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Landscape@2x~ipad.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"80390DD0-88A0-4081-B2DD-03634E5A5345-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloCordova.app/Default-Landscape~ipad.png
+s419842699.522867
+e419842699.524192
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/HelloCordova.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/HelloCordova.app/Default-Landscape~ipad.png126"CpResource HelloCordova/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloCordova.app/Default-Landscape~ipad.pngd8f3858b4a06b941^f436868b4a06b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Landscape~ipad.png0034bce5dcffdf42^926"CpResource HelloCordova/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloCordova.app/Default-Landscape~ipad.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Landscape~ipad.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"380A14A3-D303-450D-81EB-1216058C8ABF-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png
+s419842699.523172
+e419842699.524527
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png130"CpResource HelloCordova/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png3d0f868b4a06b941^3048868b4a06b941^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png0034bce5dcffdf42^932"CpResource HelloCordova/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloCordova.app/Default-Portrait@2x~ipad.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Portrait@2x~ipad.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"084A3054-17F1-41E2-973A-F93A1D24022C-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloCordova.app/Default-Portrait~ipad.png
+s419842699.523929
+e419842699.525308
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/HelloCordova.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/emulator/HelloCordova.app/Default-Portrait~ipad.png124"CpResource HelloCordova/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloCordova.app/Default-Portrait~ipad.png8847868b4a06b941^6c7c868b4a06b941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default-Portrait~ipad.png0034bce5dcffdf42^923"CpResource HelloCordova/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloCordova.app/Default-Portrait~ipad.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default-Portrait~ipad.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"8FFD7E81-73C6-409B-9026-4E94DBD35D97-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/splash/Default@2x~iphone.png build/emulator/HelloCordova.app/Default@2x~iphone.png
+s419842699.524673
+e419842699.525978
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/HelloCordova.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/emulator/HelloCordova.app/Default@2x~iphone.png116"CpResource HelloCordova/Resources/splash/Default@2x~iphone.png build/emulator/HelloCordova.app/Default@2x~iphone.png2978868b4a06b941^69a7868b4a06b941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default@2x~iphone.png0034bce5dcffdf42^911"CpResource HelloCordova/Resources/splash/Default@2x~iphone.png build/emulator/HelloCordova.app/Default@2x~iphone.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default@2x~iphone.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"B8E39C87-0E32-4746-8357-3F7F90364D35-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CCpResource HelloCordova/Resources/splash/Default~iphone.png build/emulator/HelloCordova.app/Default~iphone.png
+s419842699.525431
+e419842699.526439
+r1
+xCpResource
+xHelloCordova/Resources/splash/Default~iphone.png
+xbuild/emulator/HelloCordova.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy build/emulator/HelloCordova.app/Default~iphone.png110"CpResource HelloCordova/Resources/splash/Default~iphone.png build/emulator/HelloCordova.app/Default~iphone.png809a868b4a06b941^74d3868b4a06b941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Default~iphone.png0034bce5dcffdf42^902"CpResource HelloCordova/Resources/splash/Default~iphone.png build/emulator/HelloCordova.app/Default~iphone.png    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/Resources/splash/Default~iphone.png /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"F27923B9-E8CB-4EB4-A717-740F7E16A576-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CGenerateDSYMFile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova
+s420907931.116893
+e420907931.152668
+r1
+xGenerateDSYMFile
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Generate /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM98"GenerateDSYMFile build/emulator/HelloCordova.app.dSYM build/emulator/HelloCordova.app/HelloCordova9cfd1d9b8b16b941^7215279b8b16b941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM/0000000000000000^918"GenerateDSYMFile build/emulator/HelloCordova.app.dSYM build/emulator/HelloCordova.app/HelloCordova    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-2.1.1/bin:/Users/JoshSGman/.rvm/gems/ruby-2.1.1@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-2.1.1/bin:/bin:/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/JoshSGman/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova -o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app.dSYM36"A35568C4-F2DE-4A84-BF88-07F914AEBB56-
+bCC04EB93-FF29-4833-BBDD-436C49BAE4AB
+
+CLd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova normal i386
+s420907571.477362
+e420907571.783935
+r1
+xLd
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova
+xnormal
+xi386
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/HelloCordova.LinkFileList
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/main.o
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/AppDelegate.o
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/MainViewController.o
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVLogger.o
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVDevice.o
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/CDVStatusBar.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Link /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova59"Ld build/emulator/HelloCordova.app/HelloCordova normal i386d8487a338a16b941^e6afc8338a16b941^---0#0#1#--2067"Ld build/emulator/HelloCordova.app/HelloCordova normal i386    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-2.1.1/bin:/Users/JoshSGman/.rvm/gems/ruby-2.1.1@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-2.1.1/bin:/bin:/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/JoshSGman/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -F/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -filelist /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/HelloCordova.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework AssetsLibrary /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Objects-normal/i386/HelloCordova_dependency_info.dat -o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/HelloCordova36"35D1C2D2-6630-4E38-9663-22CA3B44B152-
+b25F8DE18-3137-4855-864B-D51C36F3094D
+
+CPhaseScriptExecution Copy\ www\ directory /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh
+s420907929.951402
+e420907931.111769
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m1.142s
+ouser	0m0.438s
+osys	0m0.700s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'142"PhaseScriptExecution Copy\ www\ directory build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.she4dbf3998b16b941^aa9e1c9b8b16b941^-42"real	0m1.142suser	0m0.438ssys	0m0.700s3(21%IDEActivityLogMessage2@14"real	0m1.142s-420907931#1#14#-0#-----2@14"user	0m0.438s-420907931#15#14#-0#-----2@13"sys	0m0.700s-420907931#29#13#-0#-----0#0#1#--390"PhaseScriptExecution Copy\ www\ directory build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    /bin/sh -c /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/Script-304B58A110DAC018002A0835.sh36"27421028-1D03-45E9-91E5-3ACBFB95F031-
+bCC04EB93-FF29-4833-BBDD-436C49BAE4AB
+
+CProcessInfoPlistFile /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Info.plist /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist
+s420907929.948275
+e420907929.950462
+r1
+xProcessInfoPlistFile
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Info.plist
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Process /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist100"ProcessInfoPlistFile build/emulator/HelloCordova.app/Info.plist HelloCordova/HelloCordova-Info.plistd5e7f2998b16b941^ce51f3998b16b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist0000000000000000^1023"ProcessInfoPlistFile build/emulator/HelloCordova.app/Info.plist HelloCordova/HelloCordova-Info.plist    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-2.1.1/bin:/Users/JoshSGman/.rvm/gems/ruby-2.1.1@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-2.1.1/bin:/bin:/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/JoshSGman/.rvm/bin"    builtin-infoPlistUtility /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/HelloCordova-Info.plist -genpkginfo /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app/Info.plist36"BFA865FF-10AC-459C-BD8F-86C5F06E505B-
+bCC04EB93-FF29-4833-BBDD-436C49BAE4AB
+
+CProcessPCH /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch.pch HelloCordova/HelloCordova-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419842700.696957
+e419842700.981850
+r1
+xProcessPCH
+x/var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch.pch
+xHelloCordova/HelloCordova-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/HelloCordova-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile HelloCordova/HelloCordova-Prefix.pch310"ProcessPCH /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch.pch HelloCordova/HelloCordova-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4581b28c4a06b941^e25cfb8c4a06b941^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/HelloCordova-Prefix.pch0000000000000000^4189"ProcessPCH /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch.pch HelloCordova/HelloCordova-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/gems/ruby-1.9.2-p320@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-1.9.2-p320/bin:/Users/JoshSGman/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-generated-files.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-own-target-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-all-target-headers.hmap -iquote /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/HelloCordova-project-headers.hmap -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/usr/local/lib/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/UninstalledProducts/include -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources/i386 -I/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/HelloCordova.build/Debug-iphonesimulator/HelloCordova.build/DerivedSources -F/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator --serialize-diagnostics /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch.d -c /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/HelloCordova/HelloCordova-Prefix.pch -o /var/folders/r_/wjncrtln3ls2rx9xhp102gtr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloCordova-Prefix-ebgotkuqkdwwvlgrcquidgtvegfi/HelloCordova-Prefix.pch.pch36"33403A28-2FD9-4FC5-A920-6558B239C7A9-
+b5EF6C2AC-BB48-4BC8-BB66-775C9A33CF5E
+
+CTouch /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app
+s420907931.153459
+e420907931.157001
+r1
+xTouch
+x/Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Touch /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app37"Touch build/emulator/HelloCordova.app9163279b8b16b941^0531289b8b16b941^---0#0#1#--664"Touch build/emulator/HelloCordova.app    cd /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/JoshSGman/.rvm/gems/ruby-2.1.1/bin:/Users/JoshSGman/.rvm/gems/ruby-2.1.1@global/bin:/Users/JoshSGman/.rvm/rubies/ruby-2.1.1/bin:/bin:/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/JoshSGman/.rvm/bin"    /usr/bin/touch -c /Users/JoshSGman/Desktop/ionic_moviebuddy/myApp/platforms/ios/build/emulator/HelloCordova.app36"687CAD86-5B53-4CF8-AD6E-34B2C6D3B656-
+bCC04EB93-FF29-4833-BBDD-436C49BAE4AB
+
