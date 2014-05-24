@@ -11,7 +11,7 @@ var app = angular.module('starter', ['ionic','ngAnimate','xeditable', 'starter.c
   $ionicPlatform.ready(function() {
     if(window.StatusBar) {
       // org.apache.cordova.statusbar required
-      StatusBar.hide();
+      // StatusBar.hide();
     }
   });
 });
